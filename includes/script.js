@@ -77,7 +77,7 @@ function displayCacheProgress() {
     }, 1000);
     setTimeout(function () {
         // location.reload();
-        document.title = "CSSFontFace exploit";
+        document.title = "NAWAF4MU EXPLOIT";
     }, 3000);
 }
 
