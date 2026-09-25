@@ -77,7 +77,7 @@ function displayCacheProgress() {
     }, 1000);
     setTimeout(function () {
         // location.reload();
-        document.title = "NAWAF4MU EXPLOIT";
+        document.title = "NAWAF4MU & JANA EXPLOIT";
     }, 3000);
 }
 
